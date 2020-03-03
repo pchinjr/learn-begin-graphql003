@@ -1,5 +1,5 @@
 @app
-graphql-example
+pizza-9hx
 
 @static
 folder public
